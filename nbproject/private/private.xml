@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/LoginPage.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/admin.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/classroom.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/helper/Helper.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/entities/User.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/note.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/normal.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/list.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/dao/ShowCategoryDao.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/error.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/Footer.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/entities/contactBean.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/css/style.css</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/css/contact_css.css</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/CategoryServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/error_page.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/css/myStyle.css</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/ContactServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/entities/ChapterBean.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/entities/Message.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/team.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/entities/CategoryBean.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/web-development.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/contact.png</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/profile.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/RegisterModel.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/contact.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/index.jsp</file>
+            <file>file:/C:/Users/Muhammad%20bilal/Desktop/java_prog/Networking/TechBlog/web/img/plus.png</file>
+        </group>
+    </open-files>
+</project-private>
