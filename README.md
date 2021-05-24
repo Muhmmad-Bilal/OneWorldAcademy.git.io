@@ -1,1 +1,1 @@
-# OneWorldAcademy.git.io
+# OneWorldAcademy.github.io
